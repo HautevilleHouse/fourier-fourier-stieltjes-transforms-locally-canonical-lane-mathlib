@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace FourierFourierStieltjesTransformsLocallyCanonicalLaneLean
+
+end FourierFourierStieltjesTransformsLocallyCanonicalLaneLean
+end HautevilleHouse
